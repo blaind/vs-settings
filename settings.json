@@ -12,6 +12,5 @@
     },
     "files.trimTrailingWhitespace": true,
     "window.zoomLevel": 0,
-    "editor.renderLineHighlight": "gutter",
-    "vim.useCtrlKeys": false
+    "editor.renderLineHighlight": "gutter"
 }
