@@ -1,0 +1,17 @@
+{
+    "editor.fontSize": 20,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "editor.renderWhitespace": "boundary",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/*.sw*": true
+    },
+    "files.trimTrailingWhitespace": true,
+    "window.zoomLevel": 0,
+    "editor.renderLineHighlight": "gutter",
+    "vim.useCtrlKeys": false
+}
